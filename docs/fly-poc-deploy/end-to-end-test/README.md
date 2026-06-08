@@ -213,8 +213,8 @@ Expected: `total >= 50`, plus the first and last observation timestamps.
 
 ### Step G: see the data in the JHE UI
 
-1. Log in to JHE as `admin@example.com`.
-2. Navigate to Patients -> Peter (id 40001) -> "Data" tab.
+1. Log in to the JHE practitioner portal as `manager_mary@example.com`.
+2. Open the "Observations" tab in the left-side nav (filter by the relevant org/study).
 3. You should see heart-rate observations dated within the polled window.
 
 Pipeline verified end-to-end.
