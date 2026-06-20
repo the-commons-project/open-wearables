@@ -5,7 +5,7 @@ description = ""
 requires-python = ">=3.13"
 dependencies = [
     "cryptography>=48.0.0",
-    "pydantic-settings>=2.14.1",
+    "pydantic-settings>=2.14.2",
     "email-validator>=2.2.0",
     "psycopg>=3.3.4",
     "sqlalchemy>=2.0.50",
